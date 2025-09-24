@@ -1,5 +1,4 @@
-s=set()
-s.add(2)
+s = set()
 s.add(2)
 s.add(2)
 s.add("2")
