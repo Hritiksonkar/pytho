@@ -13,4 +13,5 @@ for i in item:
         print("duplicate item is:",i)
         break
     duplicate_items.add(i)
+
         
